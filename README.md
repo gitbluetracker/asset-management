@@ -1,3 +1,4 @@
+# TO BE USED FOR BLUE TESTING. DO NOT USE FOR UPDATING ASSET-MANAGEMENT 
 # Asset Management
 [![Build Status](https://travis-ci.org/ooi-integration/asset-management.svg?branch=master)](https://travis-ci.org/ooi-integration/asset-management)
 A repository for Asset Management for OOI data.
